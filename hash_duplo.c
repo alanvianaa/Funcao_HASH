@@ -48,4 +48,5 @@ int main()
     printf("CHAVE%d: %d Posição VETOR[%d]\n",i,vetor[i],i);
     }
     return 0;
+    //teste
 }
