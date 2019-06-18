@@ -27,6 +27,8 @@ void inserir(int chave, int posicao){
     return;
 }
 
+//teste
+
 int main()
 {
     for(int i=0;i<TAMANHO;i++){
