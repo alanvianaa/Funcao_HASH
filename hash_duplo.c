@@ -28,6 +28,7 @@ void inserir(int chave, int posicao){
 }
 
 //teste
+//teste2
 
 int main()
 {
